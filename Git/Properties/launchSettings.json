@@ -2,7 +2,7 @@
   "profiles": {
     "BuildYourOwnGit": {
       "commandName": "Project",
-      "commandLineArgs": "init",
+      "commandLineArgs": "hash-object hello.txt",
       "workingDirectory": "C:\\Users\\arush\\Desktop\\GitPlayground"
     }
   }

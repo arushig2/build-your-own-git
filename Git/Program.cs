@@ -23,7 +23,7 @@ switch (args[0])
         new InitCommand().Execute();
         break;
     case "hash-object":
-        new HashObjectCommand().Execute();
+        new HashObjectCommand().Execute(args);
         break;
     case "add":
         new AddCommand().Execute(); 
