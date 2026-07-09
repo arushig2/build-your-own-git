@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BuildYourOwnGit": {
+      "commandName": "Project",
+      "commandLineArgs": "init",
+      "workingDirectory": "C:\\Users\\arush\\Desktop\\GitPlayground"
+    }
+  }
+}
