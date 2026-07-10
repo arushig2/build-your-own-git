@@ -29,7 +29,7 @@ switch (args[0])
         new AddCommand().Execute(); 
         break;
     case "cat-file":
-        new CatFileCommand().Execute();
+        new CatFileCommand().Execute(args);
         break;
     case "commit":
         new CommitCommand().Execute();
