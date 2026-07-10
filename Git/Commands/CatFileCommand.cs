@@ -32,12 +32,6 @@ namespace Git.Commands
             {
                 Console.WriteLine(ex.Message);
             }
-
-
-
         }
     }
 }
-
-
-//95d09f2b10159347eece71399a7e2e907ea3df4f
